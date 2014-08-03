@@ -1,0 +1,5 @@
+name = "bit.ly Node"
+description = "Provides bitlinks for nodes."
+core = 7.x
+dependencies[] = bitly
+package = bit.ly
